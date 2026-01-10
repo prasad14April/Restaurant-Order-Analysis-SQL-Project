@@ -18,6 +18,13 @@ They want to know:
 
 SQL Queries visible in the project file
 
+🧮 SQL Concepts Covered in this Project:
+1.Select,Where,Order By
+2.Group By
+3.Aggregate Functions
+4.Join Operations
+5.Subqueries
+
 📊 Insights/Analysis Generated
 - Total 6 orders and ₹3370 revenue recorded. - Pizza and Burger categories drive major sales. - Rohan Mehta (Mumbai) is the top spender. - French Fries and Cold Coffee are popular add-ons. - Mumbai contributes the highest number of orders.
 
